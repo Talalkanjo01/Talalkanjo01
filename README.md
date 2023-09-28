@@ -1,4 +1,4 @@
-[![MasterHead]([https://drive.google.com/file/d/1BsQNeVuWt6DN5mctogHPReot3lKHKnWL/view?usp=sharing](https://www.bu.edu/cise/files/2021/09/automation-and-control-w-1200x500.gif))
+[![MasterHead](https://img.freepik.com/free-photo/photo-automobile-production-line-welding-car-body-modern-car-assembly-plant-auto-industry_645730-133.jpg?w=1380&t=st=1695901249~exp=1695901849~hmac=45ad5c5aec74b40d976a549d81c9fbbea4df2c026a9ff1f9f87c306fdf5444ca)
 <h1 align="center">Hi 👋, I'm Talal Kanjo</h1>
 <h3 align="center">A Machincal Engineer From Türkiye</h3>
 
