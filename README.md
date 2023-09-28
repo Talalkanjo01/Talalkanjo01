@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1BsQNeVuWt6DN5mctogHPReot3lKHKnWL/view?usp=sharing)
+[![MasterHead]([https://drive.google.com/file/d/1BsQNeVuWt6DN5mctogHPReot3lKHKnWL/view?usp=sharing](https://www.bu.edu/cise/files/2021/09/automation-and-control-w-1200x500.gif))
 <h1 align="center">Hi 👋, I'm Talal Kanjo</h1>
 <h3 align="center">A Machincal Engineer From Türkiye</h3>
 
