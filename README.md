@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-photo/photo-automobile-production-line-welding-car-body-modern-car-assembly-plant-auto-industry_645730-133.jpg?w=1380&t=st=1695901249~exp=1695901849~hmac=45ad5c5aec74b40d976a549d81c9fbbea4df2c026a9ff1f9f87c306fdf5444ca)
+[![MasterHead](https://img.freepik.com/free-vector/robotized-car-factory-cartoon-concept_1441-3027.jpg?w=1800&t=st=1695901513~exp=1695902113~hmac=2ce2ace8bffb32ae1eff66aefb1ca2d0267cc64b8c7aef72601b2668a18a24e0)
 <h1 align="center">Hi 👋, I'm Talal Kanjo</h1>
 <h3 align="center">A Machincal Engineer From Türkiye</h3>
 
