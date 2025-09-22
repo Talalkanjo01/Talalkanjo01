@@ -1,12 +1,12 @@
 [![MasterHead](https://img.freepik.com/free-vector/robotized-car-factory-cartoon-concept_1441-3027.jpg?w=1800&t=st=1695901513~exp=1695902113~hmac=2ce2ace8bffb32ae1eff66aefb1ca2d0267cc64b8c7aef72601b2668a18a24e0)
 <h1 align="center">Hi 👋, I'm Talal Kanjo</h1>
-<h3 align="center">A Machincal Engineer From Türkiye</h3>
+<h3 align="center">A Intelligent and Autonomous Systems Engineer</h3>
 
-- 🔭 I’m currently working on **Electromechanical Systems**
+- 🔭 I’m currently working on **Robotics** and **Control Systems**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1pjZP5FJQL72CR22Qu_7e4WZg-aVUm7Y_/view?usp=sharing](https://drive.google.com/file/d/1pjZP5FJQL72CR22Qu_7e4WZg-aVUm7Y_/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/u/0/folders/15MeIi9uO6aZqCqfZJmJtNJYsau1NPsbY)
 
 - 📫 How to reach me **talalkanjo.01@gmail.com**
 
